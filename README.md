@@ -20,9 +20,9 @@ Experience in building backend systems with Node.js, Express.js, and MongoDB. Pa
 
 **Projects**
 
-* **TCET-ERP (Open-Source)** - Contributed to a college-level enterprise resource planning website within the Thakur College open-source organization. 
-* **SweatFlix** - Hackathon project. Built a workout assistant featuring a chatbot, video resources, and gamification elements using Express.js, MongoDB, HTML, and CSS.
-* **Olypedia** - Group project creating a comprehensive Olympics website with athlete profiles, medal tables, ticket booking, and venue management. Focused on backend development ([https://shivam-fl.github.io/Olypedia-testing/](https://shivam-fl.github.io/Olypedia-testing/)).
+* **😄 TCET-ERP (Open-Source)** - Contributed to a college-level enterprise resource planning website within the Thakur College open-source organization. 
+* **⚡ SweatFlix** - Hackathon project. Built a workout assistant featuring a chatbot, video resources, and gamification elements using Express.js, MongoDB, HTML, and CSS.
+* **👯 Olypedia** - Group project creating a comprehensive Olympics website with athlete profiles, medal tables, ticket booking, and venue management. Focused on backend development ([https://shivam-fl.github.io/Olypedia-testing/](https://shivam-fl.github.io/Olypedia-testing/)).
 
 **Other Contributions**
 
