@@ -36,7 +36,7 @@ Experience in building backend systems with Node.js, Express.js, and MongoDB. Pa
 * **Data Analytics:** Python
 * **Other:** C programming
 
-**Let's Connect! 👯 **
+**Let's Connect! 👯**
 
 📫 Feel free to check out my GitHub profile. I'm always looking for new opportunities to collaborate and learn.
 ([https://github.com/sanika-wani](https://github.com/sanika-wani))
