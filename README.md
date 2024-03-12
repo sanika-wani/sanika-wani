@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 📫 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -26,17 +26,17 @@ Experience in building backend systems with Node.js, Express.js, and MongoDB. Pa
 
 **Other Contributions**
 
-* **EWPPC Paper Presentation** - First author on "Artificial Intelligence in Education". Presented a review of AI applications and surveyed its growth trajectory (2010-21).
-* **Workshops** - Completed workshops on Python 3.4.3 fundamentals (Spoken-Tutorial IIT) and Oracle's 'No Code App Development'. 
+* **💬 EWPPC Paper Presentation** - First author on "Artificial Intelligence in Education". Presented a review of AI applications and surveyed its growth trajectory (2010-21).
+* **💬 Workshops** - Completed workshops on Python 3.4.3 fundamentals (Spoken-Tutorial IIT) and Oracle's 'No Code App Development'. 
 
-**Skills**
+**📫 Skills**
 
 * **Backend:** Node.js, Express.js, MongoDB
 * **Web Development:** HTML, CSS, JavaScript
 * **Data Analytics:** Python
 * **Other:** C programming
 
-**Let's Connect!**
+**Let's Connect! 👯 **
 
-Feel free to check out my GitHub profile. I'm always looking for new opportunities to collaborate and learn.
+📫 Feel free to check out my GitHub profile. I'm always looking for new opportunities to collaborate and learn.
 ([https://github.com/sanika-wani](https://github.com/sanika-wani))
